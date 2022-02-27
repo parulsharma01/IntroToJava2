@@ -1,0 +1,78 @@
+Transaction time  and date:2022-02-27T05:30:44.904845
+Account number 1
+Added Amount :500.0
+Amount before Transaction :1000.0
+Amount after Transaction :1500.0
+Transaction Status : Successful 
+The available amount in the account is :1500.0
+Transaction time  and date:2022-02-27T05:30:44.917384
+Account number 1
+Withdrawn Amount :-300.0
+Amount before Transaction :1500.0
+Amount after Transaction :1200.0
+Transaction Status : Successful 
+The available amount in the account is :1200.0
+Transaction time  and date:2022-02-27T05:30:44.937227
+Account number 1
+Transaction Status : Failed 
+The available amount in the account is :1200.0
+Transaction time  and date:2022-02-27T05:32:39.410293
+Account number 1
+Added Amount :500.0
+Amount before Transaction :1000.0
+Amount after Transaction :1500.0
+Transaction Status : Successful 
+The available amount in the account is :1500.0
+Transaction time  and date:2022-02-27T05:32:39.423099
+Account number 1
+Withdrawn Amount :-300.0
+Amount before Transaction :1500.0
+Amount after Transaction :1200.0
+Transaction Status : Successful 
+The available amount in the account is :1200.0
+Transaction time  and date:2022-02-27T05:32:39.435755
+Account number 1
+Transaction Status : Failed 
+The available amount in the account is :1200.0
+Transaction time  and date:2022-02-27T05:32:56.975360
+Account number 1
+Added Amount :500.0
+Amount before Transaction :10000.0
+Amount after Transaction :10500.0
+Transaction Status : Successful 
+The available amount in the account is :10500.0
+Transaction time  and date:2022-02-27T05:32:56.990133
+Account number 1
+Withdrawn Amount :-300.0
+Amount before Transaction :10500.0
+Amount after Transaction :10200.0
+Transaction Status : Successful 
+The available amount in the account is :10200.0
+Transaction time  and date:2022-02-27T05:32:57.003549
+Account number 1
+Withdrawn Amount :-1600.0
+Amount before Transaction :10200.0
+Amount after Transaction :8600.0
+Transaction Status : Successful 
+The available amount in the account is :8600.0
+Transaction time  and date:2022-02-27T05:34:25.750660
+Account number 1
+Added Amount :500.0
+Amount before Transaction :10000.0
+Amount after Transaction :10500.0
+Transaction Status : Successful 
+The available amount in the account is :10500.0
+Transaction time  and date:2022-02-27T05:34:25.763196
+Account number 1
+Withdrawn Amount :-300.0
+Amount before Transaction :10500.0
+Amount after Transaction :10200.0
+Transaction Status : Successful 
+The available amount in the account is :10200.0
+Transaction time  and date:2022-02-27T05:34:25.776938
+Account number 1
+Withdrawn Amount :-1600.0
+Amount before Transaction :10200.0
+Amount after Transaction :8600.0
+Transaction Status : Successful 
+The available amount in the account is :8600.0

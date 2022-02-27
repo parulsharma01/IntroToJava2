@@ -1,7 +1,30 @@
 
 class Main{
 	public static void main(String ar[]){
-	
+		Customer cust1 = new Customer("Parul Sharma", "Delhi", "9123562525");
+		Bank bank1 = new SBI(Bank.type.CURRENT);
+		Account acc1 = new Account(cust1, bank1, 10000);
+		acc1.addMoney(500);
+		try {
+			acc1.withdrawMoney(300);
+			acc1.withdrawMoney(1600);
+		}catch (Exception e){
+			e.printStackTrace();
+		}
+		acc1.printAccountDetails();
+
+		Customer cust2 = new Customer("Govind Arya", "Delhi", "9123562455");
+		Bank bank2 = new ICICI(Bank.type.SAVINGS);
+		Account acc2 = new Account(cust2, bank2, 5000);
+		acc2.addMoney(5000);
+		try {
+			acc2.withdrawMoney(5000);
+			acc2.withdrawMoney(200);
+		}catch (Exception e){
+			e.printStackTrace();
+		}
+		acc2.printAccountDetails();
+
 	}
 }
 /*
